@@ -6,3 +6,8 @@ No garantizamos la seguridad, la precisión ni la funcionalidad de este código.
 Se recomienda encarecidamente que se utilice con precaución y bajo la supervisión de un profesional calificado.
 Recuerda que la experimentación con código debe hacerse en entornos controlados y seguros, y nunca debe utilizarse para actividades ilegales o perjudiciales. 
 El uso de este código es bajo tu propia responsabilidad.
+
+
+
+Si al ser lanzado, alguien se conectara el esp8266, parpadeara 06 veces el LED azul del microcontrolador, verifique con:
+172.0.0.1/creds (escriba en su navegador preferido) ahi se guarda lo capturado.
