@@ -1,4 +1,4 @@
-# Esp8266-falso-login-netflix
+# Esp8266-fake-login-netflix
 ADVERTENCIA¡¡¡¡ Este código se proporciona únicamente con fines educativos. No nos hacemos responsables del mal uso que se le pueda dar. 
 Cualquier daño o pérdida resultante del uso indebido de este código es responsabilidad exclusiva del usuario. 
 El usuario asume todos los riesgos asociados con la ejecución de este código. 
